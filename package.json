@@ -1,0 +1,23 @@
+{
+  "name": "learn-js-packages",
+  "version": "0.0.1",
+  "description": "Learning JS",
+  "main": "app/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meenatchi-Mediwave/learn-js-packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meenatchi-Mediwave/learn-js-packages/issues"
+  },
+  "homepage": "https://github.com/Meenatchi-Mediwave/learn-js-packages#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
